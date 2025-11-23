@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+wazza: whats up my pigga
 ---
 
